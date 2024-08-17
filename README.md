@@ -55,3 +55,6 @@ These insights are valuable for making informed business decisions related to pr
 
 Contributions
 Contributions are welcome! If you have ideas for improvements or additional analysis, please open an issue or submit a pull request. Make sure to document your changes clearly.
+
+![pizza sales sql image](https://github.com/user-attachments/assets/04219a88-4f13-44f5-a279-4de55c0ecfa5)
+
