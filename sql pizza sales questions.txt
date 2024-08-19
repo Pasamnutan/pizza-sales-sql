@@ -1,0 +1,23 @@
+Fundamental Pizza Sales Metrics
+Total Orders: Quantify the overall number of orders placed.
+Total Revenue: Compute the aggregate revenue generated from all pizza sales.
+Premium Priced Pizza: Identify the highest-priced pizza in the menu.
+Most Popular Size: Determine the most frequently ordered pizza size.
+
+Top 5 Bestsellers: List the top five most ordered pizza types, including their respective quantities.
+In-Depth Sales Analysis
+Category-Wise Order Volume: Calculate the total quantity of pizzas sold within each category through table joins.
+Hourly Sales Distribution: Examine the distribution of pizza orders across different times of the day.
+Category Distribution: Determine the proportional distribution of pizza orders by category using relevant table joins.
+Daily Order Trends: Group orders by date and calculate the average number of pizzas ordered per day.
+Top Revenue-Generating Pizzas: Identify the top three pizza types that generate the highest revenue.
+
+Advanced Sales Insights
+Revenue Share by Pizza Type: Calculate the percentage contribution of each pizza type to the total revenue.
+Cumulative Revenue Analysis: Analyze the cumulative revenue generated over time to identify trends.
+Category-Specific Revenue Leaders: Determine the top three pizza types within each category based on the revenue they contribute.
+
+
+
+
+
